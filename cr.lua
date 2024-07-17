@@ -221,7 +221,6 @@ local Reports = {
     2412829552, --satspire 
     1396940578, --xy_nd 
   },
-  
   miscellaneous = {  
     331031293, --iambIizzard 
     2482335274, --ChicagoShiesty
@@ -265,8 +264,10 @@ local Reports = {
     1396940578, --xy_nd
     4243527652, --VolnyBlokk 
   },
-  
   alternative = {  
-   1885538965, --AmateurMastered | alternative of CelesticialFlaw
+   1885538965, --AmateurMastered | Alternative Account of the CelesticialFlaw
+  },
+  intelagent = {  
+   5515777500, --INTEL_DECLENSION
   },
 }
