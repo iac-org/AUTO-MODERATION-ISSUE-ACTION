@@ -6,5 +6,5 @@
 
 
 local blacklistedgroups = {
-   [9327275] = true, -- Zoger SCPF
+   [9327275] -- Zoger SCPF
 }
