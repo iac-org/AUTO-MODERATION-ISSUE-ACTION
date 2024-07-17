@@ -5,7 +5,11 @@
 --- BLACKLISTED GROUPS
 
 local blacklistedgroups = {
-   9327275, -- Zoger SCPF
-   1234567, -- Example Group
+   34397025, -- «« ₪ »» | Demise/InyxReborn/hxrrsilence Group. | Reason: Intelligence.
+   34244533, -- [NONEXISTENT] | Kaspiianar Group. | Reason: Intelligence.
+   34363884, -- [SCPF — FEMIAS]| Fentimperialist/LoyalistPhantom Group. | Reason: Intelligence.
+   34244533, -- [SCPF] • DEIMOS | Demise/InyxReborn/hxrrsilence Group. | Reason: Intelligence.
+   10885862, --test
+   
 }
 
