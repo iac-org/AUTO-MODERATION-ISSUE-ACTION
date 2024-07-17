@@ -9,7 +9,6 @@ local blacklistedgroups = {
    34244533, -- [NONEXISTENT] | Kaspiianar Group. | Reason: Intelligence.
    34363884, -- [SCPF — FEMIAS]| Fentimperialist/LoyalistPhantom Group. | Reason: Intelligence.
    34244533, -- [SCPF] • DEIMOS | Demise/InyxReborn/hxrrsilence Group. | Reason: Intelligence.
-   10885862, --test
    
 }
 
