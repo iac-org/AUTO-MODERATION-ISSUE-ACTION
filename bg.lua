@@ -7,6 +7,6 @@
 
 local Reports = {
   blacklistedgroup = {  
-   5515777500, --INTEL_DECLENSION
+   9327275, --Zoger SCPF
   },
 }
