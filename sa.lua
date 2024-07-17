@@ -10,6 +10,6 @@ local Reports = {
    1885538965, -- Roblox Username: AmateurMastered | Alternative Account of the CelesticialFlaw. | Reason: Literally alt.
   },
   intelagent = {  
-   5515777500, --Roblox Username: INTEL_DECLENSION | Demise/InyxReborn/hxrrsilence Group. | Reason: Agent.
+   5515777500, -- Roblox Username: INTEL_DECLENSION | Demise/InyxReborn/hxrrsilence Group. | Reason: Agent.
   },
 }
