@@ -8,3 +8,4 @@ Welcome to the official project repository of the International Authority Coalit
 #### ISSUES:
 - Criminal Repository.
 - Blacklisted Groups.
+- Special Accounts.
