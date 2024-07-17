@@ -6,5 +6,5 @@
 
 
 local blacklistedgroup = {
-   9327275, --Zoger SCPF
+   9327275, -- Zoger SCPF
 }
