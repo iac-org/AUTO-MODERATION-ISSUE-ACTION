@@ -7,9 +7,9 @@
 
 local Reports = {
   alternative = {  
-   1885538965, --AmateurMastered | Alternative Account of the CelesticialFlaw
+   1885538965, -- Roblox Username: AmateurMastered | Alternative Account of the CelesticialFlaw. | Reason: Literally alt.
   },
   intelagent = {  
-   5515777500, --INTEL_DECLENSION
+   5515777500, --Roblox Username: INTEL_DECLENSION | Demise/InyxReborn/hxrrsilence Group. | Reason: Agent.
   },
 }
