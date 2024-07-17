@@ -265,4 +265,8 @@ local Reports = {
     1396940578, --xy_nd
     4243527652, --VolnyBlokk 
   },
+  
+  alternative = {  
+   1885538965, --AmateurMastered | alternative of CelesticialFlaw
+  },
 }
