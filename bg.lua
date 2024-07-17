@@ -5,8 +5,6 @@
 --- BLACKLISTED GROUPS
 
 
-local Reports = {
-  blacklistedgroup = {  
+local blacklistedgroup = {
    9327275, --Zoger SCPF
-  },
 }
