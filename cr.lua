@@ -265,10 +265,4 @@ local Reports = {
     1396940578, --xy_nd
     4243527652, --VolnyBlokk 
   },
-  alternative = {  
-   1885538965, --AmateurMastered | Alternative Account of the CelesticialFlaw
-  },
-  intelagent = {  
-   5515777500, --INTEL_DECLENSION
-  },
 }
