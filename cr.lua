@@ -155,7 +155,7 @@ local Reports = {
     1396940578, --xy_nd 
     64798510, --illuminabIe 
     39093930, --YeahImAsterion 
-    ---486443797 --ohchaar
+    486443797 --ohchaar
   },
   cybercrime = {  
     708306009, --colonizedclanner 
