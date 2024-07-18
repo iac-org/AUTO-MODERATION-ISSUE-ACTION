@@ -12,5 +12,6 @@ local BlacklistedGroups = {
    34244533, -- [SCPF] • DEIMOS | Demise/InyxReborn/hxrrsilence Group. | Reason: Intelligence.
    33472020, -- ː∎ː | Seytanelif Group. | Reason: Intelligence.
    14794327, -- [ ARC-83 ] | Previous xy_nd SCPF Group. Now robloxcoolnotpool owns it. | Reason: Intelligence Foundation, possibly a threat.
+   6865181, --test
 }
 
