@@ -9,12 +9,12 @@
 
 local Reports = {
     BlacklistedGroups = {
-        { groupId = 34397025, groupName = "«« ₪ »»", reason = "Intelligence" },
-        { groupId = 34244533, groupName = "[NONEXISTENT]", reason = "Intelligence." },
-        { groupId = 34363884, groupName = "[SCPF — FEMIAS]", reason = "Intelligence." },
-        { groupId = 34244533, groupName = "[SCPF] • DEIMOS", reason = "Intelligence." },
-        { groupId = 33472020, groupName = "ː∎ː", reason = "Intelligence." },
-        { groupId = 14794327, groupName = "[ ARC-83 ]", reason = "Intelligence Foundation, possibly a threat." },
-        { groupId = 6865181, groupName = "IAC", reason = "testing." },
+        { groupId = 34397025, groupName = "«« ₪ »»", reason = "You are in a blacklisted group, field: Intelligence." },
+        { groupId = 34244533, groupName = "[NONEXISTENT]", reason = "You are in a blacklisted group, field: Intelligence." },
+        { groupId = 34363884, groupName = "[SCPF — FEMIAS]", reason = "You are in a blacklisted group, field: Intelligence." },
+        { groupId = 34244533, groupName = "[SCPF] • DEIMOS", reason = "You are in a blacklisted group, field: Intelligence." },
+        { groupId = 33472020, groupName = "ː∎ː", reason = "You are in a blacklisted group, field: Intelligence." },
+        { groupId = 14794327, groupName = "[ ARC-83 ]", reason = "You are in a blacklisted group, field: Intelligence SCP Foundation, which is a possibly a threat." },
+        { groupId = 6865181, groupName = "IAC", reason = "You are in a blacklisted group, field: Testing and IAC." },
     },
 }
