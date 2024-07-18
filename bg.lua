@@ -14,6 +14,7 @@ local Reports = {
         { groupId = 34363884, groupName = "[SCPF — FEMIAS]", reason = "Intelligence." },
         { groupId = 34244533, groupName = "[SCPF] • DEIMOS", reason = "Intelligence." },
         { groupId = 33472020, groupName = "ː∎ː", reason = "Intelligence." },
-        { groupId = 14794327, groupName = "[ ARC-83 ]", reason = "Intelligence Foundation, possibly a threat.." },
+        { groupId = 14794327, groupName = "[ ARC-83 ]", reason = "Intelligence Foundation, possibly a threat." },
+        { groupId = 6865181, groupName = "IAC", reason = "testing." },
     },
 }
