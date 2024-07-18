@@ -12,15 +12,12 @@ local Reports = {
         { userId = 1885538965, username = "AmateurMastered", reason = "Alternative Account of the CelesticialFlaw."},
         { userId = 1874723110, username = "TheReaICalciumm", reason = "Alternative & Main of Demise/InyxReborn/hxrrsilence Account."},
         { userId = 4067202176, username = "InyxReborn", reason = "Alternative & Main of Demise/InyxReborn/hxrrsilence Account."},
-        { userId = 1174411949, username = "Reverixu", reason = "Alternative & Main of Demise/InyxReborn/hxrrsilence Account."},
     },
     NoName = {
         { userId = 5515777500, username = "INTEL_DECLENSION", reason = "No-Name Account Agent."},
-        { userId = 1174411949, username = "Reverixu", reason = "No-Name Account Agent."},
     },
     Undercover = {
         { userId = 5515777500, username = "INTEL_DECLENSION", reason = "Undercover Intelligence Account Agent."},
-        { userId = 1174411949, username = "Reverixu", reason = "Undercover Intelligence Account Agent."},
     },
     Intelligence = {
         { userId = 1874723110, username = "TheReaICalciumm", reason = "Intelligence Agent."},
@@ -29,6 +26,5 @@ local Reports = {
         { userId = 1418100044, username = "Kaspiianar", reason = "Intelligence Agent."},
         { userId = 1396940578, username = "xy_nd", reason = "Intelligence Agent."},
         { userId = 1459696345, username = "Seytanelif", reason = "Intelligence Agent."},
-        { userId = 1174411949, username = "Reverixu", reason = "Intelligence Agent."},
     },
 }
