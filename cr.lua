@@ -221,7 +221,7 @@ local Reports = {
         { userId = 1657100320, username = "BlxxedDifficulties", reason = "", notes = "" },
         { userId = 414548172, username = "Kitfry_king", reason = "", notes = "" },
         { userId = 2412829552, username = "satspire", reason = "", notes = "" },
-        { userId = 1396940578, username = "xy_nd", reason = "", notes = "" }
+        { userId = 1396940578, username = "xy_nd", reason = "", notes = "" },
       },
     Miscellaneous = {
         { userId = 331031293, username = "iambIizzard", reason = "", notes = "" },
@@ -265,3 +265,21 @@ local Reports = {
         { userId = 4243527652, username = "VolnyBlokk", reason = "", notes = "" },
   },
 }
+
+
+
+-- Function to print the reports for debugging
+local function printReports(category)
+    if Reports[category] then
+        for _, report in ipairs(Reports[category]) do
+            print("UserId:", report.userId, "Username:", report.username, "Reason:", report.reason, "Notes:", report.notes)
+        end
+    else
+        print("No reports found for category:", category)
+    end
+end
+
+-- Example usage
+printReports("Degeneracy")
+printReports("Cybercrime")
+printReports("Miscellaneous")
