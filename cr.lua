@@ -9,6 +9,7 @@
 
 local Reports = {
     Degeneracy = {
+        { userId = 1174411949, username = "Reverixu", reason = "Testing", notes = "" },
         { userId = 4914547968, username = "Elixmann", reason = "", notes = "" },
         { userId = 424143484, username = "xenoyxy", reason = "", notes = "" },
         { userId = 125258800, username = "DArkR4v_N", reason = "", notes = "" },
@@ -264,22 +265,3 @@ local Reports = {
         { userId = 4243527652, username = "VolnyBlokk", reason = "", notes = "" },
   },
 }
-
-
-
--- Function to print the reports for debugging
-function printReports(category)
-    if Reports[category] then
-        for _, report in ipairs(Reports[category]) do
-            print("UserId:", report.userId, "Username:", report.username, "Reason:", report.reason, "Notes:", report.notes)
-        end
-    else
-        print("No reports found for category:", category)
-    end
-end
-
--- Example usage
-printReports("Degeneracy")
-printReports("Cybercrime")
-printReports("Miscellaneous")
-printReports("NonExistentCategory")
