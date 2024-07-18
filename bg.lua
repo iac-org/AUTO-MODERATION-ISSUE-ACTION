@@ -15,6 +15,6 @@ local Reports = {
         { groupId = 34244533, groupName = "[SCPF] • DEIMOS", reason = "You are in a blacklisted group, field: Intelligence." },
         { groupId = 33472020, groupName = "ː∎ː", reason = "You are in a blacklisted group, field: Intelligence." },
         { groupId = 14794327, groupName = "[ ARC-83 ]", reason = "You are in a blacklisted group, field: Intelligence SCP Foundation, which is a possibly a threat." },
-        { groupId = 6865181, groupName = "IAC", reason = "You are in a blacklisted group, field: IAC." },
+        { groupId = 10885862, groupName = "GOC", reason = "You are in a blacklisted group, field: GOC." },
     },
 }
