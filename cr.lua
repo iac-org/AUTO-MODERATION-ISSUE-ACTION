@@ -222,7 +222,7 @@ local Reports = {
     2412829552, --satspire 
     1396940578, --xy_nd 
   },
-  Miscellaneous = {  
+  MiscellaneousAffairs = {  
     331031293, --iambIizzard 
     2482335274, --ChicagoShiesty
     1921575422, --Klemensillium 
