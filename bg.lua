@@ -5,7 +5,7 @@
 --- BLACKLISTED GROUPS
 
 
-local blacklistedgroups = {
+local BlacklistedGroups = {
    34397025, -- «« ₪ »» | Demise/InyxReborn/hxrrsilence Group. | Reason: Intelligence.
    34244533, -- [NONEXISTENT] | Kaspiianar Group. | Reason: Intelligence.
    34363884, -- [SCPF — FEMIAS]| Fentimperialist/LoyalistPhantom Group. | Reason: Intelligence.
