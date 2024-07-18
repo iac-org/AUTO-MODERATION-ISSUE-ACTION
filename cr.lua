@@ -9,7 +9,6 @@
 
 local Reports = {
     Degeneracy = {
-        { userId = 1174411949, username = "Reverixu", reason = "Testing", notes = "" },
         { userId = 4914547968, username = "Elixmann", reason = "", notes = "" },
         { userId = 424143484, username = "xenoyxy", reason = "", notes = "" },
         { userId = 125258800, username = "DArkR4v_N", reason = "", notes = "" },
