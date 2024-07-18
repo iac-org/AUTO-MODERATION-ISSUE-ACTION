@@ -9,6 +9,7 @@
 
 local Reports = {
     ["Degeneracy"] = {
+        { id = 1174411949, name = "Reverixu", reason = "", notes = "" },
         { id = 4914547968, name = "Elixmann", reason = "", notes = "" },
         { id = 424143484, name = "xenoyxy", reason = "", notes = "" },
         { id = 125258800, name = "DArkR4v_N", reason = "", notes = "" },
