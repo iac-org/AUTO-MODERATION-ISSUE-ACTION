@@ -269,7 +269,7 @@ local Reports = {
 
 
 -- Function to print the reports for debugging
-local function printReports(category)
+function printReports(category)
     if Reports[category] then
         for _, report in ipairs(Reports[category]) do
             print("UserId:", report.userId, "Username:", report.username, "Reason:", report.reason, "Notes:", report.notes)
@@ -283,3 +283,4 @@ end
 printReports("Degeneracy")
 printReports("Cybercrime")
 printReports("Miscellaneous")
+printReports("NonExistentCategory")
