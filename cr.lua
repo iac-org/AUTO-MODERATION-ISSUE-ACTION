@@ -6,7 +6,7 @@
 
 
 local Reports = {
-  degeneracy = {  
+  Degeneracy = {  
     4914547968, --Elixmann 
     424143484, --xenoyxy 
     125258800, --DArkR4v_N 
@@ -157,7 +157,7 @@ local Reports = {
     64798510, --illuminabIe 
     39093930, --YeahImAsterion 
   },
-  cybercrime = {  
+  Cybercrime = {  
     708306009, --colonizedclanner 
     996959166, --evis2026 
     424143484, --xenoyxy 
@@ -222,7 +222,7 @@ local Reports = {
     2412829552, --satspire 
     1396940578, --xy_nd 
   },
-  miscellaneous = {  
+  Miscellaneous = {  
     331031293, --iambIizzard 
     2482335274, --ChicagoShiesty
     1921575422, --Klemensillium 
