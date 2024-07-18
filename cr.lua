@@ -6,6 +6,7 @@
 
 local Reports = {
     ["Degeneracy"] = {
+        {1174411949, "Reverixu"},        
         {4914547968, "Elixmann"},
         {424143484, "xenoyxy"},
         {125258800, "DArkR4v_N"},
