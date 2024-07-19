@@ -267,6 +267,6 @@ local Reports = {
 }
 
 
-local userIdToUnban = 0 -- Replace with the actual userId
-UnBanDataStore:SetAsync(tostring(userIdToUnban), { username = "OnlyTwentyCharacters" }) -- Replace "PlayerUsername" with the actual username
+local userIdToUnban = 1 -- Replace with the actual userId
+UnBanDataStore:SetAsync(tostring(userIdToUnban), { username = "Roblox" }) -- Replace "PlayerUsername" with the actual username
 print("User", userIdToUnban, "has been unbanned.")
